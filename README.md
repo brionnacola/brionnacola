@@ -1,4 +1,14 @@
-## Hi there 👋
+# Brionna Cola - Computer Programming and Analysis Major
+
+## About Me
+Hello, I am Brionna! I attend Valencia College in Orlando, Florida. I was born in Providence, Rhode Island and raised in the Central Florida area. I currently work for a major technology company. During the 14 years of working at the company, I have grown so much and have been given such amazing opportunities. I could not have asked for a better place to grow and develop over the years. You can learn more about my journey into tech [here](https://www.brionnacola.com/)!
+
+The first computer I have personally owned (that wasn't a family computer) was a 2009 MacBook. I was in graphic design classes in high school and begged my parents for a MacBook since it what we used in class, and they surprised me with it for graduation. I actually still have the computer as a collectible and to see how far MacBooks have come is quite surreal. My original machine had an optical drive in it! I can't even imagine owning a CD or any type of disk now.
+
+## Fun Facts
+My favorite class so far in my degree is Intorduction to Programming where we are learning about Python. The professor is really great! I have previous experience with the programming language but it is always nice to get a refresher. I am not that far inot the degree so I am still going through classes.
+
+My favorite programming language so far has to be Python. My passion is to go into AI, as well as machine learning, and this is the best language 
 
 <!--
 **brionnacola/brionnacola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
