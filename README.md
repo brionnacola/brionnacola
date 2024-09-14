@@ -5,6 +5,8 @@ Hello, I am Brionna! _Pronouns: she/her/hers_. I attend Valencia College in Orla
 
 The first computer I have personally owned (that wasn't a family computer) was a 2009 MacBook. I was in graphic design classes in high school and begged my parents for a MacBook since it is what we used in class, and they surprised me with it for graduation. I actually still have the computer as a collectible and to see how far MacBooks have come is quite surreal. My original machine had an optical drive in it! I can't even imagine owning a CD or any type of disk now.
 
+![alt text](IMG_1740.jpeg)
+
 ## Fun Facts
 My favorite class so far in my degree is Intorduction to Programming where we are learning about Python. The professor is really great! I have previous experience with the programming language but it is always nice to get a refresher. I am not that far into the degree so I am still going through classes so this will definitely change!
 
@@ -27,11 +29,11 @@ I'm looking for help in growing my skills further and getting a mentor in the in
 ## Certificates
 Certificates that I have completed or I am currently working on:
 
-Tech Related
+**Tech Related**
 1. [x] Responsive Web Design Certificate, freeCodeCamp — Completed, May 2023
 2. [ ] JavaScript Algorithms and Data Structures, freeCodeCamp — In progress
 
-Other
+**Other**
 1. [x] Foundations of Project Management, Google — Completed, Apr 2023
 2. [x] Project Initiation: Starting a Successful Project, Google — Completed, May 2023
 3. [ ] Project Planning: Putting It All Together, Google — In progress
