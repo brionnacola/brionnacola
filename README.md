@@ -5,7 +5,7 @@ Hello, I am Brionna! _Pronouns: she/her/hers_. I attend Valencia College in Orla
 
 The first computer I have personally owned (that wasn't a family computer) was a 2009 MacBook. I was in graphic design classes in high school and begged my parents for a MacBook since it is what we used in class, and they surprised me with it for graduation. I actually still have the computer as a collectible and to see how far MacBooks have come is quite surreal. My original machine had an optical drive in it! I can't even imagine owning a CD or any type of disk now.
 
-
+![Photo of me in Bath, London](https://github.com/brionnacola/brionnacola/blob/10beb4f3c1940d49e46c9e7c306ebf9b1799e299/IMG_1740.jpeg)
 
 ## Fun Facts
 My favorite class so far in my degree is Intorduction to Programming where we are learning about Python. The professor is really great! I have previous experience with the programming language but it is always nice to get a refresher. I am not that far into the degree so I am still going through classes so this will definitely change!
